@@ -15,6 +15,7 @@ struct node{
    node *next;
 };
 
+
 int main()
 {
    int num_of_balances, num_of_balances_2;
